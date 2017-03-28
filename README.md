@@ -1,2 +1,2 @@
 # Pusta
-Speech&amp;Math research scripts
+Research scripts and functions for the research group Speech&amp;Math, mostly in MATLAB.
